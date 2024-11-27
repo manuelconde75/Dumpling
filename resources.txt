@@ -1,0 +1,19 @@
+# 1
+fuente: https://www.freepik.es/
+recurso: images/Dumpling.png
+
+# 2
+fuente: https://www.flaticon.es/
+recurso: images/flecha.png
+
+# 3
+fuente: https://leonardo.ai/
+recurso: [images/Xiao_Long_Bao.jpg, images/Tang_Yuan.jpg, images/Gyoza.jpg, images/Tang_Yuan_1.jpg, images/Tang_Yuan_2.jpg, images/Tang_Yuan_3.jpg, images/Gyoza_Step_1.jpg, images/Gyoza_Step_2.jpg, images/Gyoza_Step_3.jpg, images/Xiao_Long_Bao_Step_1.jpg, images/Xiao_Long_Bao_Step_2.jpg, images/Xiao_Long_Bao_Step_3.jpg]
+
+# 4
+fuente: Google Fonts
+recurso: [https://fonts.googleapis.com/css2?family=Allura&family=Lora:ital,wght@0,400..700;1,400..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap]
+
+# 5
+fuente: https://unpkg.com/aos@2.3.1/
+recurso: [https://unpkg.com/aos@2.3.1/dist/aos.css, https://unpkg.com/aos@2.3.1/dist/aos.js]
